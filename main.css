@@ -1,0 +1,16 @@
+#backgroundbody {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 99vw;
+  height: 95vh;
+  transition: 2s;
+}
+
+#btn {
+  padding: 20px;
+  border: none;
+  background: black;
+  color: white;
+  cursor: pointer;
+}
